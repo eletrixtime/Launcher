@@ -5,7 +5,7 @@
 <p align="center">UltimMC is a custom launcher for Minecraft which allows you to manage multiple instances and use offline ("cracked") accounts while keeping as close as possible to the original.</p>
 
 </p>
-
+d
 > [!IMPORTANT]
 > This project is a **fork** of MultiMC. </br> </br>
 > This software is provided without any warranty, so please don't contact the main
